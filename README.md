@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="images/lxgw-logo.svg" width = "128" height = "128" align=center /> </br>
-<img src="https://readme-typing-svg.demolab.com/?font=LXGW+WenKai+GB&pause=1000&color=2979FF&center=true&width=400&height=50&lines=Welcome to the English LXGW" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=LXGW+WenKai+GB&pause=1000&color=2979FF&center=true&width=400&height=50&lines=Welcome" />
 ---
   
 [开源字体一览（表格版）](https://lxgw.github.io/2021/01/15/Lxgw-Opensource-Chinese-Fonts/)  
